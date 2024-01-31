@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79480ad3-e715-4059-8fe3-27da65347050" name="Changes" comment="" />
+    <list default="true" id="759618b5-16e7-4676-9dd4-0b11cfecfcaa" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,20 +13,21 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2alcvzedItsefSojqPOFwGJ9hk6" />
+  <component name="ProjectId" id="2bPAbIqUJmlvVaGJRS9CfmYPZj2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "last_opened_file_path": "C:/Users/nout_student4/Documents/GitHub/mironinginirium123"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="Lesson10.01.24" />
+      <module name="Lesson24.01.24" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -50,11 +51,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="79480ad3-e715-4059-8fe3-27da65347050" name="Changes" comment="" />
-      <created>1704896840233</created>
+      <changelist id="759618b5-16e7-4676-9dd4-0b11cfecfcaa" name="Changes" comment="" />
+      <created>1706106409156</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1704896840233</updated>
+      <updated>1706106409156</updated>
     </task>
     <servers />
   </component>
